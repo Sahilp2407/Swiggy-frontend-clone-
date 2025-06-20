@@ -13,7 +13,7 @@
 
 ![Swiggy Clone Banner](https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/m/seo/App_download_banner.png)
 
-📍 _Add your deployed link here_
+[📍Swiggy clone link_](https://sahilp2407.github.io/Swiggy-frontend-clone-/)
 
 ---
 
